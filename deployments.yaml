@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: nginx:1.14.2
+          image: misoboy/demo:1.0-88934f8
           ports:
             - containerPort: 80
